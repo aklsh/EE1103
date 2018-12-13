@@ -1,6 +1,6 @@
 # LINKS and REFERENCES
 
-* Summary of the course, with Fortran codes:  http://www.damtp.cam.ac.uk/lab/people/sd/lectures/nummeth98/contents.htm 
+* Summary of EE1103, with Fortran codes:  http://www.damtp.cam.ac.uk/lab/people/sd/lectures/nummeth98/contents.htm 
 * Numerical Libraries:  http://people.sc.fsu.edu/~jburkardt/c_src/c_src.html
 * C vs C++ vs Java vs Whatever: https://www.metaltoad.com/blog/myth-specialized-programmer
 * File input/output:  https://www.programiz.com/c-programming/c-file-input-output
