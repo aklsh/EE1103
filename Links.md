@@ -12,3 +12,4 @@
 * Numerical Integration:  http://www.damtp.cam.ac.uk/lab/people/sd/lectures/nummeth98/integration.htm
 * Root finding (Iteration Method):  https://ncalculators.com/math-worksheets/iteration-method-numerical-analysis.htm
 * Circular Buffers: https://en.wikipedia.org/wiki/Circular_buffer
+* LU Decomposition pseudo-code: https://courses.iitm.ac.in/pluginfile.php/167561/mod_assign/intro/Assignment-9.pdf
