@@ -1,6 +1,6 @@
 # Integration
 
-Integrate the same dataset used for interpolation and compare the trapezoid rule against the more advanced Romberg Quadrature (C code is in the Implementation here: [Romberg's Method](https://en.wikipedia.org/wiki/Romberg%27s_method)).
+Integrate the same dataset used for [Interpolation](https://github.com/aklsh/EE1103/tree/master/Assignment3) and compare the trapezoid rule against the more advanced Romberg Quadrature (C code is in the Implementation here: [Romberg's Method](https://en.wikipedia.org/wiki/Romberg%27s_method)).
 
 ##### Use this for practice - Numerically integrate these functions:
 
