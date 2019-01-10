@@ -19,3 +19,4 @@ Use the Mth and the M+Pth bit values,  and compute the Hamming distance within t
 Check that you obtained the minimum Hamming distance for when the offset was M.
 
 Check out this link for a clearer idea on hamming distance between two strings: https://www.geeksforgeeks.org/hamming-distance-two-strings/
+.
