@@ -7,9 +7,9 @@
     
     * After successfully installing git, open terminal and type the following command to change to a directory where you want to store this repository:
     
-    ~~~
-          cd <dir_name>
-    ~~~
+        ~~~
+              cd <dir_name>
+        ~~~
     * Then, type the following command after you have cd'ed into the directory:
     
         ~~~  
