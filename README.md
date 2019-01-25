@@ -5,7 +5,13 @@
   * Note to students who are using this repo for reference:
     * [Download and install git](https://git-scm.com/downloads) on your computer.
     
-    * After successfully installing git, change to a directory where you want to store this repository and type the following command on a terminal window:
+    * After successfully installing git, open terminal and type the following command to change to a directory where you want to store this repository:
+    
+    ~~~
+          cd <dir_name>
+    ~~~
+    * Then, type the following command after you have cd'ed into the directory:
+    
         ~~~  
         git clone https://github.com/aklsh/EE1103__Numerical_Methods.git
         ~~~
