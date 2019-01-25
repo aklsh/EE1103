@@ -15,7 +15,8 @@
         ~~~  
         git clone https://github.com/aklsh/EE1103__Numerical_Methods.git
         ~~~
-    * Great! Now you have a local copy of this repository on your computer. Reach out to me if you have any queries.
- 
+    * Great! Now you have a local copy of this repository on your computer. You can now look at the code, edit it if you want and treat it as if it's your own!
+    * All The Best! Hope this repo was useful...
+  
  ---  
    <b> Please DO NOT submit the same code as given in this repository if you are given the same assignment(s). The code(s) given here are only for reference. PLEASE WORK ON YOUR CODE FROM SCRATCH !!! </b>
