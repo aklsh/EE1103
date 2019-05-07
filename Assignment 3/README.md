@@ -7,4 +7,4 @@
 
 The file below has y-data separated in steps of 25ps. Downsample it to 250 ps (take every 10th point) and plot it in gnuplot. Now, generate the intermediate points  using interpolation, and compare the root mean square error between the actual data set and the interpolated points.
 
-[out1_test0.csv](https://courses.iitm.ac.in/pluginfile.php/167554/mod_assign/introattachment/0/out1_test0.csv?forcedownload=1)
+[out1_test0.csv](https://github.com/aklsh/EE1103__Numerical_Methods/blob/master/Assignment%203/out1_test0.csv)
